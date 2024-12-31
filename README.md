@@ -1,5 +1,5 @@
 <h1>Restaurant Website</h1>
-<p>To preview the <a href =" https://veerasiva123.github.io/Restaurant-Menu/"</a>website</p>
+<p>To preview the <a></a>href =" https://veerasiva123.github.io/Restaurant-Menu/"</a>website</p>
 <section>
     <h2>About</h2>
     <p>Our restaurant website is designed to provide visitors with an immersive experience, allowing them to explore our menu, learn about our restaurant, and contact us for reservations or inquiries. The website is crafted with a focus on user experience and aesthetics, aiming to showcase our brand identity and the quality of our offerings.</p>
